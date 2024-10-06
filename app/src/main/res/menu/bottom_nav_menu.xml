@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_upcoming"
+        android:icon="@drawable/event_upcoming_24px"
+        android:title="@string/upcoming" />
+
+    <item
+        android:id="@+id/navigation_finished"
+        android:icon="@drawable/check_small_24px"
+        android:title="@string/finished" />
+
+    <item
+        android:id="@+id/navigation_favorite"
+        android:icon="@drawable/star_24px"
+        android:title="Favorite"
+        />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/settings_24px"
+        android:title="Settings"/>
+
+</menu>
